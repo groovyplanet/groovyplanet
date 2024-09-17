@@ -1,3 +1,11 @@
+
+
+
+<h2 class="heading-element" dir="auto">👨🏻&zwj;💻 About Me</h2>
+
+<em>Back-end, Spring Boot, React, Java</em>
+
+
 <div align="center"> 
 
 ![readme](https://github.com/user-attachments/assets/97d5169d-d6c3-4e0c-aad3-638bb1964722)<br/><br/>
@@ -18,7 +26,8 @@
 
 </div>
 
-# 💪Skills
+<h2 class="heading-element" dir="auto">💪 Skills</h2>
+
 ### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=OpenJDK&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
@@ -30,16 +39,20 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
+![Postgre](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
-### Tools
+<h2 class="heading-element" dir="auto">⚒️ Tools</h2>
+
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
 
  
-# :mailbox_with_mail: Contacts
+
+<h2 class="heading-element" dir="auto">:mailbox_with_mail: Contacts</h2>
+
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sneakersgroovy@gmail.com)](mailto:sneakersgroovy@gmail.com)
 <a href="https://instagram.com/hjwjo" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
