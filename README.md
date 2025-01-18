@@ -52,7 +52,7 @@
     <a href="https://solved.ac/lol3569/">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lol3569" alt="Solved.ac Profile"/>
     </a>
-    <img src="http://mazandi.herokuapp.com/api?handle=lol3569&theme=dark"/>
+
     
 </p>
 
