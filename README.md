@@ -1,7 +1,5 @@
 
 <div align="center">
-    
-![readme](https://github.com/user-attachments/assets/97d5169d-d6c3-4e0c-aad3-638bb1964722)
 
 <h3 class="heading-element" dir="auto">👨🏻&zwj;💻 About Me 👨🏻&zwj;💻 </h2>
 
