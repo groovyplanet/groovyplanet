@@ -29,7 +29,7 @@ Korea Software Industry Association Award (한국소프트산업협회장상) - 
 
 ### 📜 **Certifications**  
 **SQL Developer (SQLD)** - *September 2024*  
-**Advanced Data Analytics Semi-Professional (ADSP)** - *December 2024*  
+**Advanced Data Analytics Semi-Professional (ADSP)** - *November 2024*  
 **Information Processing Engineer (정보처리기사)** - In Progress (Expected First Half of 2025)  
 **Kubernetes Certification** - In Progress (Expected First Half of 2025)  
 **AWS Certification** - In Progress (Expected First Half of 2025)
