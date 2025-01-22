@@ -28,17 +28,17 @@
   Contest Award (Korea Software Industry Association) *(December 2024)*
 
 ### 📜 **Certifications**  
-**SQL Developer (SQLD)**: September 2024  
-**Advanced Data Analytics Semi-Professional (ADSP)**: December 2024  
-**Information Processing Engineer (정보처리기사)**: In Progress (Expected First Half of 2025)  
-**Kubernetes Certification**: In Progress (Expected First Half of 2025)  
-**AWS Certification**: In Progress (Expected First Half of 2025)
+**SQL Developer (SQLD)** - *September 2024*  
+**Advanced Data Analytics Semi-Professional (ADSP)** - *December 2024*  
+**Information Processing Engineer (정보처리기사)** - In Progress (Expected First Half of 2025)  
+**Kubernetes Certification** - In Progress (Expected First Half of 2025)  
+**AWS Certification** - In Progress (Expected First Half of 2025)
 
 ### 🚀 **Projects**  
-**SUSUMA**: Repair Service Matching Platform *(July 2024)*  
-**IKEA ERP**: ERP System for Resource and Business Management *(September 2024)*  
-**fromBirth**: AI-based Child Development Tracking Platform *(November 2024)*  
-**Flow**: AI-based Discover Yourself with an AI Assistant *(Expected Completion: January 2025)*
+**SUSUMA** - Repair Service Matching Platform *(July 2024)*  
+**IKEA ERP** - ERP System for Resource and Business Management *(September 2024)*  
+**fromBirth** - AI-based Child Development Tracking Platform *(November 2024)*  
+**Flow** - AI-based Discover Yourself with an AI Assistant *(Expected Completion: January 2025)*
  
 
 </div>
