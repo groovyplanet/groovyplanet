@@ -22,10 +22,10 @@
 
 ### 🏆 **Awards**  
 **2024 K-Digital Hackathon** (2024년 K-디지털 트레이닝 해커톤)  
-  Contest Award (Ministry of Employment and Labor) *(November 2024)*  
+Ministry of Employment and Labor Award (고용노동부 장관상) - *November 2024*  
 
 **2024 K-Digital Integrated Project Presentation** (2024년 KDT 통합프로젝트 발표회)  
-  Contest Award (Korea Software Industry Association) *(December 2024)*
+Korea Software Industry Association Award (한국소프트산업협회장상) - *December 2024*
 
 ### 📜 **Certifications**  
 **SQL Developer (SQLD)** - *September 2024*  
