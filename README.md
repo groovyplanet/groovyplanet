@@ -3,13 +3,49 @@
 
 <h3 class="heading-element" dir="auto">👨🏻&zwj;💻 About Me 👨🏻&zwj;💻 </h2>
 
-<em>Back-end, Spring Boot, React, Java</em>
-
 <a href="https://dev.hjwjo.com" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/b11ce70eb8c8b31ce3db54d0717248ba05c154f0a9d76e338c85a0f7fdff9937/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f746973746f72792d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d76656c6f67266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&amp;logo=velog&amp;logoColor=white" style="max-width: 100%;">
-  </a>
+    <img src="https://camo.githubusercontent.com/b11ce70eb8c8b31ce3db54d0717248ba05c154f0a9d76e338c85a0f7fdff9937/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f746973746f72792d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d76656c6f67266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&amp;logo=velog&amp;logoColor=white" style="max-width: 100%;"> </a>
+    
+<a href="https://laser-mare-bab.notion.site/Jeongwoo-Han-Full-Stack-Developer-183660107b8a807c96c9c4cafb6e9310" rel="nofollow">
+    <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" data-canonical-src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&amp;logo=notion&amp;logoColor=white" style="max-width: 100%;"></a>
 
-  </div>
+
+
+
+
+<div align="center">
+
+### 🏢 **Organizations**  
+**Choongang Technology Development Center** (중앙정보처리학원)  
+  JAVA Application Software Developer Course  
+  *(April 2024 - November 2024)*
+
+### 🏆 **Awards**  
+**2024 K-Digital Hackathon** (2024년 K-디지털 트레이닝 해커톤)  
+  Contest Award (Ministry of Employment and Labor) *(November 2024)*  
+
+**2024 K-Digital Integrated Project Presentation** (2024년 KDT 통합프로젝트 발표회)  
+  Contest Award (Korea Software Industry Association) *(December 2024)*
+
+### 📜 **Certifications**  
+**SQL Developer (SQLD)**: *(September 2024)*  
+**Advanced Data Analytics Semi-Professional (ADSP)**: *(December 2024)*  
+**Information Processing Engineer (정보처리기사)**: In Progress (Expected First Half of 2025)  
+**Kubernetes Certification**: In Progress (Expected First Half of 2025)  
+**AWS Certification**: In Progress (Expected First Half of 2025)
+
+### 🚀 **Projects**  
+**SUSUMA**: Repair Service Matching Platform *(July 2024)*  
+**IKEA ERP**: ERP System for Resource and Business Management *(September 2024)*  
+**fromBirth**: AI-based Child Development Tracking Platform *(November 2024)*  
+**Flow**: AI-based Discover Yourself with an AI Assistant *(Expected Completion: January 2025)*
+ 
+
+</div>
+
+
+
+
 
 <div align="center">
     
