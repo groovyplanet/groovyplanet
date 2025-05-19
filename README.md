@@ -20,6 +20,12 @@
   JAVA Application Software Developer Course  
   *(April 2024 - November 2024)*
 
+**JUIS**
+  Full Stack Web Developer (focused on Backend)
+  Actively contributing to backend architecture, API development, and deployment automation for web-based service platforms.
+  *(February 2025 - Present)*
+
+
 ### 🏆 **Awards**  
 **2024 K-Digital Hackathon** (2024년 K-디지털 트레이닝 해커톤)  
 Ministry of Employment and Labor Award (고용노동부 장관상) - *November 2024*  
