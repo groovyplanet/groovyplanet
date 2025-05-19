@@ -20,10 +20,10 @@
   JAVA Application Software Developer Course  
   *(April 2024 - November 2024)*
 
-**JUIS**
-  Full Stack Web Developer (focused on Backend)
-  Actively contributing to backend architecture, API development, and deployment automation for web-based service platforms.
-  *(February 2025 - Present)*
+**JUIS**  
+  Full Stack Web Developer (focused on Backend)  
+  Actively contributing to backend architecture, API development, and deployment automation for web-based service platforms.  
+  *(February 2025 - Present)*  
 
 
 ### 🏆 **Awards**  
