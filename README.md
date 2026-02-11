@@ -3,13 +3,7 @@
 
 <h3 class="heading-element" dir="auto">👨🏻&zwj;💻 About Me 👨🏻&zwj;💻 </h2>
 
-<a href="https://dev.hjwjo.com" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/b11ce70eb8c8b31ce3db54d0717248ba05c154f0a9d76e338c85a0f7fdff9937/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f746973746f72792d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d76656c6f67266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&amp;logo=velog&amp;logoColor=white" style="max-width: 100%;"> </a>
-    
-<a href="https://hjwjo.notion.site/Jeongwoo-Han-Full-Stack-Developer-15e660107b8a805abf72e83082632278" rel="nofollow">
-    <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" data-canonical-src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&amp;logo=notion&amp;logoColor=white" style="max-width: 100%;"></a>
-
-
+<a href="https://dev.hjwjo.com" rel="nofollow"><img src="https://camo.githubusercontent.com/e07c02619509e19500ae75991e11c20014ca9e0e8d44a39bac0ef99fff0e9b0f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f546973746f72792d3030303030303f7374796c653d666c6174266c6f676f3d546973746f7279266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Tistory-000000?style=flat&amp;logo=Tistory&amp;logoColor=white" style="max-width: 100%;"></a>
 
 
 
@@ -82,14 +76,7 @@ Korea Software Industry Association Award (한국소프트산업협회장상) - 
 
 <br/>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgroovyplanet%2Fhit-counter&count_bg=%233E73DF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=groovyplanet&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=30% />
-</a>    
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=groovyplanet&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=45% />
-</a>
 
 <p align="center">
     <a href="https://solved.ac/lol3569/">
