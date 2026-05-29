@@ -78,16 +78,6 @@ Korea Software Industry Association Award (한국소프트산업협회장상) - 
 
 
 
-<p align="center">
-    <a href="https://solved.ac/lol3569/">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lol3569" alt="Solved.ac Profile"/>
-    </a>
-
-    
-</p>
-
-
-
 </div>
 
  
